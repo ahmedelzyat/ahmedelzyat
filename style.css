@@ -1,0 +1,38 @@
+body
+{
+    text-align: center;
+    background-color: rgba(70, 133, 124, 0.986);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 200px;
+}
+h2, h4
+{
+    color: white;
+}
+.name, .email, .date
+{
+    border-radius: 50px;
+    background-color: rgb(97, 148, 123);
+    color: white;
+    
+}
+textarea
+{
+    border-radius: 10px;
+    background-color: rgb(97, 148, 123);
+    color: white;
+}
+div
+{
+    border: 1px solid white;
+    background-color: rgb(97, 148, 123);
+    border-radius: 6px;
+}
+.submit
+{
+    background-color: rgb(70, 133, 124);
+    color:white;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 7px;
+}
